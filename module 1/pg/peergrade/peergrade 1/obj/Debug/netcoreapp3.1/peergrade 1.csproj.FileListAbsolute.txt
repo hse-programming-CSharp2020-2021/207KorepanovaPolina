@@ -1,0 +1,13 @@
+C:\Users\polina\source\repos\peergrade\peergrade 1\obj\Debug\netcoreapp3.1\peergrade 1.csprojAssemblyReference.cache
+C:\Users\polina\source\repos\peergrade\peergrade 1\obj\Debug\netcoreapp3.1\peergrade 1.AssemblyInfoInputs.cache
+C:\Users\polina\source\repos\peergrade\peergrade 1\obj\Debug\netcoreapp3.1\peergrade 1.AssemblyInfo.cs
+C:\Users\polina\source\repos\peergrade\peergrade 1\obj\Debug\netcoreapp3.1\peergrade 1.csproj.CoreCompileInputs.cache
+C:\Users\polina\source\repos\peergrade\peergrade 1\bin\Debug\netcoreapp3.1\peergrade 1.exe
+C:\Users\polina\source\repos\peergrade\peergrade 1\bin\Debug\netcoreapp3.1\peergrade 1.deps.json
+C:\Users\polina\source\repos\peergrade\peergrade 1\bin\Debug\netcoreapp3.1\peergrade 1.runtimeconfig.json
+C:\Users\polina\source\repos\peergrade\peergrade 1\bin\Debug\netcoreapp3.1\peergrade 1.runtimeconfig.dev.json
+C:\Users\polina\source\repos\peergrade\peergrade 1\bin\Debug\netcoreapp3.1\peergrade 1.dll
+C:\Users\polina\source\repos\peergrade\peergrade 1\bin\Debug\netcoreapp3.1\peergrade 1.pdb
+C:\Users\polina\source\repos\peergrade\peergrade 1\obj\Debug\netcoreapp3.1\peergrade 1.dll
+C:\Users\polina\source\repos\peergrade\peergrade 1\obj\Debug\netcoreapp3.1\peergrade 1.pdb
+C:\Users\polina\source\repos\peergrade\peergrade 1\obj\Debug\netcoreapp3.1\peergrade 1.genruntimeconfig.cache
