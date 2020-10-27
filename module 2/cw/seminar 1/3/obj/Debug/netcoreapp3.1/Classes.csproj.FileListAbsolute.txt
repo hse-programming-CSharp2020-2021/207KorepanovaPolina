@@ -1,0 +1,13 @@
+C:\Users\polina\source\repos\seminar 1 m2\3\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\polina\source\repos\seminar 1 m2\3\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\polina\source\repos\seminar 1 m2\3\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\polina\source\repos\seminar 1 m2\3\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\polina\source\repos\seminar 1 m2\3\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\polina\source\repos\seminar 1 m2\3\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\polina\source\repos\seminar 1 m2\3\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
+C:\Users\polina\source\repos\seminar 1 m2\3\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\polina\source\repos\seminar 1 m2\3\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\polina\source\repos\seminar 1 m2\3\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\polina\source\repos\seminar 1 m2\3\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\polina\source\repos\seminar 1 m2\3\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\polina\source\repos\seminar 1 m2\3\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
