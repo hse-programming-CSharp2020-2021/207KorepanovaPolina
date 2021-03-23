@@ -1,0 +1,16 @@
+C:\Users\polina\source\repos\OzLib\FirstOne\bin\Debug\netcoreapp3.1\FirstOne.exe
+C:\Users\polina\source\repos\OzLib\FirstOne\bin\Debug\netcoreapp3.1\FirstOne.deps.json
+C:\Users\polina\source\repos\OzLib\FirstOne\bin\Debug\netcoreapp3.1\FirstOne.runtimeconfig.json
+C:\Users\polina\source\repos\OzLib\FirstOne\bin\Debug\netcoreapp3.1\FirstOne.runtimeconfig.dev.json
+C:\Users\polina\source\repos\OzLib\FirstOne\bin\Debug\netcoreapp3.1\FirstOne.dll
+C:\Users\polina\source\repos\OzLib\FirstOne\bin\Debug\netcoreapp3.1\FirstOne.pdb
+C:\Users\polina\source\repos\OzLib\FirstOne\bin\Debug\netcoreapp3.1\OzLib.dll
+C:\Users\polina\source\repos\OzLib\FirstOne\bin\Debug\netcoreapp3.1\OzLib.pdb
+C:\Users\polina\source\repos\OzLib\FirstOne\obj\Debug\netcoreapp3.1\FirstOne.csprojAssemblyReference.cache
+C:\Users\polina\source\repos\OzLib\FirstOne\obj\Debug\netcoreapp3.1\FirstOne.AssemblyInfoInputs.cache
+C:\Users\polina\source\repos\OzLib\FirstOne\obj\Debug\netcoreapp3.1\FirstOne.AssemblyInfo.cs
+C:\Users\polina\source\repos\OzLib\FirstOne\obj\Debug\netcoreapp3.1\FirstOne.csproj.CoreCompileInputs.cache
+C:\Users\polina\source\repos\OzLib\FirstOne\obj\Debug\netcoreapp3.1\FirstOne.csproj.CopyComplete
+C:\Users\polina\source\repos\OzLib\FirstOne\obj\Debug\netcoreapp3.1\FirstOne.dll
+C:\Users\polina\source\repos\OzLib\FirstOne\obj\Debug\netcoreapp3.1\FirstOne.pdb
+C:\Users\polina\source\repos\OzLib\FirstOne\obj\Debug\netcoreapp3.1\FirstOne.genruntimeconfig.cache

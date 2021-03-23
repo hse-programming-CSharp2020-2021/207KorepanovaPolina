@@ -1,0 +1,9 @@
+C:\Users\polina\source\repos\OzLib\OzLib\bin\Debug\netcoreapp3.1\OzLib.deps.json
+C:\Users\polina\source\repos\OzLib\OzLib\bin\Debug\netcoreapp3.1\OzLib.dll
+C:\Users\polina\source\repos\OzLib\OzLib\bin\Debug\netcoreapp3.1\OzLib.pdb
+C:\Users\polina\source\repos\OzLib\OzLib\obj\Debug\netcoreapp3.1\OzLib.csprojAssemblyReference.cache
+C:\Users\polina\source\repos\OzLib\OzLib\obj\Debug\netcoreapp3.1\OzLib.AssemblyInfoInputs.cache
+C:\Users\polina\source\repos\OzLib\OzLib\obj\Debug\netcoreapp3.1\OzLib.AssemblyInfo.cs
+C:\Users\polina\source\repos\OzLib\OzLib\obj\Debug\netcoreapp3.1\OzLib.csproj.CoreCompileInputs.cache
+C:\Users\polina\source\repos\OzLib\OzLib\obj\Debug\netcoreapp3.1\OzLib.dll
+C:\Users\polina\source\repos\OzLib\OzLib\obj\Debug\netcoreapp3.1\OzLib.pdb

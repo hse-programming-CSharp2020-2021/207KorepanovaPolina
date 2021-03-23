@@ -1,0 +1,16 @@
+C:\Users\polina\source\repos\OzLib\SecondOne\bin\Debug\netcoreapp3.1\SecondOne.exe
+C:\Users\polina\source\repos\OzLib\SecondOne\bin\Debug\netcoreapp3.1\SecondOne.deps.json
+C:\Users\polina\source\repos\OzLib\SecondOne\bin\Debug\netcoreapp3.1\SecondOne.runtimeconfig.json
+C:\Users\polina\source\repos\OzLib\SecondOne\bin\Debug\netcoreapp3.1\SecondOne.runtimeconfig.dev.json
+C:\Users\polina\source\repos\OzLib\SecondOne\bin\Debug\netcoreapp3.1\SecondOne.dll
+C:\Users\polina\source\repos\OzLib\SecondOne\bin\Debug\netcoreapp3.1\SecondOne.pdb
+C:\Users\polina\source\repos\OzLib\SecondOne\bin\Debug\netcoreapp3.1\OzLib.dll
+C:\Users\polina\source\repos\OzLib\SecondOne\bin\Debug\netcoreapp3.1\OzLib.pdb
+C:\Users\polina\source\repos\OzLib\SecondOne\obj\Debug\netcoreapp3.1\SecondOne.csprojAssemblyReference.cache
+C:\Users\polina\source\repos\OzLib\SecondOne\obj\Debug\netcoreapp3.1\SecondOne.AssemblyInfoInputs.cache
+C:\Users\polina\source\repos\OzLib\SecondOne\obj\Debug\netcoreapp3.1\SecondOne.AssemblyInfo.cs
+C:\Users\polina\source\repos\OzLib\SecondOne\obj\Debug\netcoreapp3.1\SecondOne.csproj.CoreCompileInputs.cache
+C:\Users\polina\source\repos\OzLib\SecondOne\obj\Debug\netcoreapp3.1\SecondOne.csproj.CopyComplete
+C:\Users\polina\source\repos\OzLib\SecondOne\obj\Debug\netcoreapp3.1\SecondOne.dll
+C:\Users\polina\source\repos\OzLib\SecondOne\obj\Debug\netcoreapp3.1\SecondOne.pdb
+C:\Users\polina\source\repos\OzLib\SecondOne\obj\Debug\netcoreapp3.1\SecondOne.genruntimeconfig.cache

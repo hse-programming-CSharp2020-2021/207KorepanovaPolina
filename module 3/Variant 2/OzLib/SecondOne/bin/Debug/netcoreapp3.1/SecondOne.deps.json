@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SecondOne/1.0.0": {
+        "dependencies": {
+          "OzLib": "1.0.0"
+        },
+        "runtime": {
+          "SecondOne.dll": {}
+        }
+      },
+      "OzLib/1.0.0": {
+        "runtime": {
+          "OzLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecondOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OzLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
